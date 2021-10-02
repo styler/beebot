@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:20.04
 MAINTAINER Styler
 
 WORKDIR /usr/src/app
